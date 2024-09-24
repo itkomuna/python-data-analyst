@@ -1,1 +1,1 @@
-print('Jupiii krenuli smo da napdamo Python')
+print('Krecemo sa komentarima i promenljivama')
