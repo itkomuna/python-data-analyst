@@ -200,3 +200,7 @@ print(False)
 ljubimac = 100
 ljubimac = ['Pas', 'Frida']
 print(ljubimac)
+
+niz = (1,)
+print(type(niz))
+
